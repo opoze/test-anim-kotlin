@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">test</string>
+    <string-array name="anim_options">
+        <item>Select Animation</item>
+        <item>Translate</item>
+        <item>Rotate</item>
+        <item>Fade</item>
+        <item>Scale</item>
+        <item>Animator Set</item>
+        <item>ValueAnimator</item>
+    </string-array>
+</resources>
